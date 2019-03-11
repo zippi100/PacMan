@@ -1,0 +1,61 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         XXX                         X
+X d D D D D D D D D D D D XXX D D D D D D D D D D D d X
+X                         XXX                         X
+X D XXXXXXX D XXXXXXXXX D XXX D XXXXXXXXX D XXXXXXX D X
+X   XXXXXXX   XXXXXXXXX   XXX   XXXXXXXXX   XXXXXXX   X
+X D XXXXXXX D XXXXXXXXX D XXX D XXXXXXXXX D XXXXXXX D X
+X   XXXXXXX   XXXXXXXXX   XXX   XXXXXXXXX   XXXXXXX   X
+X D XXXXXXX D XXXXXXXXX D XXX D XXXXXXXXX D XXXXXXX D X
+X                                                     X
+X D D D D D D D D D D D D D D D D D D D D D D D D D D X
+X                                                     X
+X D XXXXXXX D XXX D XXXXXXXXXXXXXXX D XXX D XXXXXXX D X
+X   XXXXXXX   XXX   XXXXXXXXXXXXXXX   XXX   XXXXXXX   X
+X D XXXXXXX D XXX D XXXXXXXXXXXXXXX D XXX D XXXXXXX D X
+X             XXX         XXX         XXX             X
+X D D D D D D XXX D D D D XXX D D D D XXX D D D D D D X
+X             XXX         XXX         XXX             X
+XXXXXXXXXXX D XXXXXXXXX   XXX   XXXXXXXXX D XXXXXXXXXXX
+          X   XXXXXXXXX   XXX   XXXXXXXXX   X
+          X D XXXXXXXXX   XXX   XXXXXXXXX D X
+          X   XXX                     XXX   X
+          X D XXX                     XXX D X
+          X   XXX                     XXX   X
+          X D XXX   XXXXXXoooXXXXXX   XXX D X
+          X   XXX   X             X   XXX   X
+XXXXXXXXXXX D XXX   X             X   XXX D XXXXXXXXXXX
+                    X             X
+            D       X             X       D
+                    X             X
+XXXXXXXXXXX D XXX   X             X   XXX D XXXXXXXXXXX
+          X   XXX   X             X   XXX   X
+          X D XXX   XXXXXXXXXXXXXXX   XXX D X
+          X   XXX                     XXX   X
+          X D XXX                     XXX D X
+          X   XXX                     XXX   X
+          X D XXX   XXXXXXXXXXXXXXX   XXX D X
+          X   XXX   XXXXXXXXXXXXXXX   XXX   X
+XXXXXXXXXXX D XXX   XXXXXXXXXXXXXXX   XXX D XXXXXXXXXXX
+X                         XXX                         X
+X D D D D D D D D D D D D XXX D D D D D D D D D D D D X
+X                         XXX                         X
+X D XXXXXXX D XXXXXXXXX D XXX D XXXXXXXXX D XXXXXXX D X
+X   XXXXXXX   XXXXXXXXX   XXX   XXXXXXXXX   XXXXXXX   X
+X D XXXXXXX D XXXXXXXXX D XXX D XXXXXXXXX D XXXXXXX D X
+X       XXX                                 XXX       X
+X D D D XXX D D D D D D D     D D D D D D D XXX D D D X
+X       XXX                                 XXX       X
+XXXXX D XXX D XXX D XXXXXXXXXXXXXXX D XXX D XXX D XXXXX
+XXXXX   XXX   XXX   XXXXXXXXXXXXXXX   XXX   XXX   XXXXX
+XXXXX D XXX D XXX D XXXXXXXXXXXXXXX D XXX D XXX D XXXXX
+X             XXX         XXX         XXX             X
+X D D D D D D XXX D D D D XXX D D D D XXX D D D D D D X
+X             XXX         XXX         XXX             X
+X D XXXXXXXXXXXXXXXXXXX D XXX D XXXXXXXXXXXXXXXXXXX D X
+X   XXXXXXXXXXXXXXXXXXX   XXX   XXXXXXXXXXXXXXXXXXX   X
+X D XXXXXXXXXXXXXXXXXXX D XXX D XXXXXXXXXXXXXXXXXXX D X
+X                                                     X
+X d D D D D D D D D D D D D D D D D D D D D D D D D d X
+X                                                     X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
